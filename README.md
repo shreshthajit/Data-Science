@@ -5,15 +5,22 @@ Alghorithm
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
-#Supervised learning
+**Supervised learning**
 
 *Regression
+
 *Linear Regression
+
 *Ordinary Least Squares
+
 *Logistic Regression
+
 *Stepwise Regression
+
 *Multivariate Adaptive Regression Splines
+
 *Locally Estimated Scatterplot Smoothing
+
 *Classification
 *k-nearest neighbor
 *Support Vector Machines

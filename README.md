@@ -10,23 +10,20 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * Regression
 * Linear Regression
 * Ordinary Least Squares
-
 * Logistic Regression
-
 * Stepwise Regression
-
 * Multivariate Adaptive Regression Splines
-
 * Locally Estimated Scatterplot Smoothing
- 
 * Classification
 * k-nearest neighbor
 * Support Vector Machines
 * Decision Trees
 * ID3 algorithm
-*C4.5 algorithm
-*Ensemble Learning
-*Boosting
-*Bagging
-*Random Forest
-*AdaBoost
+* C4.5 algorithm
+* Ensemble Learning
+* Boosting
+* Bagging
+* Random Forest
+* AdaBoost
+
+

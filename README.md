@@ -7,7 +7,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 **Supervised learning**
 
-* *Regression*
+* Regression
 * Linear Regression
 * Ordinary Least Squares
 * Logistic Regression
@@ -27,3 +27,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * AdaBoost
 
 
+**Unsupervised Learning**
+* Clustering
+* Hierchical clustering
+* k-means
+* Fuzzy clustering
+* Mixture models
+* Neural Networks
+* Self-organizing map
+* Adaptive resonance theory

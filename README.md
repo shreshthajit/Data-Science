@@ -7,7 +7,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 **Supervised learning**
 
-* Regression
+* *Regression*
 * Linear Regression
 * Ordinary Least Squares
 * Logistic Regression
